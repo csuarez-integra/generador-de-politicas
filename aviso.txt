@@ -1,0 +1,172 @@
+<h3>1. Información legal y aceptación</h3>
+
+
+        <p>Las presentes disposiciones regulan el uso del servicio del portal de Internet (en adelante, el 'Portal') que %nombre% pone a disposición de los usuarios de Internet.
+        </p>
+        <p>%nombre%, con domicilio en %direccion% y con CIF %cif%. Teléfono: %tel%. Email: %email%</p>
+
+        <p>El acceso a la página web es gratuito salvo en lo relativo al coste de la conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso contratado por los usuarios. Determinados servicios son exclusivos para nuestros
+            clientes y su acceso se encuentra restringido. Los servicios que presta %nombre% con carácter general tienen el precio que se indique en los correspondiente documentos y en ningún caso se ofrecen o prestan a través del servicio de la Web.
+
+        </p>
+        <p>La utilización del Portal atribuye la condición de usuario del Portal (en adelante, el 'Usuario') e implica la aceptación de todas las condiciones incluidas en el presente Aviso Legal. La prestación del servicio del Portal tiene una duración limitada
+            al momento en el que el Usuario se encuentre conectado al Portal o a alguno de los servicios que a través del mismo se facilitan. Por tanto, el Usuario debe leer atentamente el presente Aviso Legal en cada una de las ocasiones en que se proponga
+            utilizar el Portal, ya que éste y sus condiciones de uso recogidas en el presente Aviso Legal pueden sufrir modificaciones.
+
+        </p>
+        <p>Algunos servicios del Portal accesibles para los usuarios de Internet o exclusivos para los clientes de %nombre%, pueden estar sometidos a condiciones particulares, reglamentos e instrucciones que, en su caso, sustituyen, completan y/o modifican
+            el presente Aviso Legal y que deberán ser aceptadas por el Usuario antes de iniciarse la prestación del servicio correspondiente.</p>
+        <br>
+        <h3>2. Propiedad intelectual e industrial</h3>
+        <p>El diseño del Portal y sus códigos fuente, así como los logos, marcas y demás signos distintivos que aparecen en el mismo pertenecen a la %nombre% y están protegidos por los correspondientes derechos de propiedad intelectual e industrial.</p>
+        <h3>3. Condiciones de uso del Portal.</h3>
+        <h5>3.1 General</h5>
+        <p>El Usuario se obliga a hacer un uso correcto del Portal de conformidad con la Ley y el presente Aviso Legal. El Usuario responderá frente a %nombre% o frente a terceros de cualesquiera daños y perjuicios que pudieran causarse como consecuencia
+            del incumplimiento de dicha obligación.</p>
+        <p>Queda expresamente prohibido el uso del Portal con fines lesivos de bienes o intereses de %nombre% o de terceros o que de cualquier otra forma sobrecarguen, dañen o inutilicen las redes, servidores y demás equipos informáticos (hardware) o
+            productos y aplicaciones informáticas (software) de %nombre% o de terceros.
+        </p>
+        <h5>3.2 Contenidos</h5>
+        <p>El Usuario se compromete a utilizar los Contenidos de conformidad con la Ley y el presente Aviso Legal, así como con las demás condiciones, reglamentos e instrucciones que en su caso pudieran ser de aplicación de conformidad con lo dispuesto en
+            la cláusula 1. Con carácter meramente enunciativo, el Usuario de acuerdo con la legislación vigente deberá abstenerse de:</p>
+        <p> a) Reproducir, copiar, distribuir, poner a disposición, comunicar públicamente, transformar o modificar los Contenidos salvo en los casos autorizados en la ley o expresamente consentidos por %nombre% o por quien ostente la titularidad de los
+            derechos de explotación en su caso.</p>
+        <p> b) Reproducir o copiar para uso privado los Contenidos que puedan ser considerados como Software o Base de Datos de conformidad con la legislación vigente en materia de propiedad intelectual, así como su comunicación pública o puesta a disposición
+            de terceros cuando estos actos impliquen necesariamente la reproducción por parte del Usuario o de un tercero.</p>
+        <p> c) Extraer y/o reutilizar la totalidad o una parte sustancial de los Contenidos integrantes del Portal, así como de las bases de datos que %nombre% ponga a disposición de los Usuarios.</p>
+        <h3>3.3 Formularios de recogida de datos</h3>
+        <p>Sin perjuicio de lo dispuesto en la cláusula 5 del presente Aviso Legal, así como en las políticas de privacidad accesibles desde el Portal y que pudieran resultar aplicables en cada momento, la utilización de ciertos servicios o solicitudes dirigidas
+            a %nombre% están condicionadas a la previa cumplimentación del correspondiente registro de Usuario.</p>
+        <p>Toda la información que facilite el Usuario a través de los formularios del Portal a los efectos anteriores o cualesquiera otros deberán ser veraz. A estos efectos, el Usuario garantiza la autenticidad de todos aquellos datos que comunique y mantendrá
+            la información facilitada a %nombre% perfectamente actualizada de forma que responda, en todo momento, a la situación real del Usuario. En todo caso será el Usuario el único responsable de las manifestaciones falsas o inexactas que realice
+            y de los perjuicios que cause a %nombre% o a terceros por la información que facilite.</p>
+        <h3>4. Exclusión de la responsabilidad</h3>
+        <p>El acceso a el Portal no implica la obligación por parte de %nombre% de comprobar la veracidad, exactitud, adecuación, idoneidad, exhaustividad y actualidad de la información suministrada a través del mismo. Los contenidos de esta página son
+            de carácter general y no constituyen, en modo alguno, la prestación de un servicio de asesoramiento legal de ningún tipo, por lo que dicha información resulta insuficiente para la toma de decisiones personales o empresariales por parte del
+            Usuario.
+        </p>
+        <p>%nombre% no se responsabiliza de las decisiones tomadas a partir de la información suministrada en el Portal ni de los daños y perjuicios producidos en el Usuario o terceros con motivo de actuaciones que tengan como único fundamento la información
+            obtenida en el Portal.</p>
+        <p>El acceso a el Portal no implica la obligación por parte de %nombre% de controlar la ausencia de virus, gusanos o cualquier otro elemento informático dañino. Corresponde al Usuario, en todo caso, la disponibilidad de herramientas adecuadas
+            para la detección y desinfección de programas informáticos dañinos.
+        </p>
+        <p>%nombre% no se responsabiliza de los daños producidos en los equipos informáticos de los Usuarios o de terceros durante la prestación del servicio de el Portal.</p>
+        <p>El servicio de acceso a el Portal incluye dispositivos técnicos de enlace, directorios e incluso instrumentos de búsqueda que permiten al Usuario acceder a otras páginas y portales de Internet (en adelante, 'Sitios Enlazados'). En estos casos,
+            %nombre% actúa como prestador de servicios de intermediación de conformidad con el artículo 17 de la Ley 34/2002, de 12 de julio, de Servicios de la Sociedad de la Información y el Comercio Electrónico ('LSSI') y sólo será responsable de
+            los contenidos y servicios suministrados en los Sitios Enlazados en la medida en que tenga conocimiento efectivo de la ilicitud y no haya desactivado el enlace con la diligencia debida. En el supuesto de que el Usuario considere que existe
+            un Sitio Enlazado con contenidos ilícitos o inadecuados podrá comunicárselo a %nombre%, sin que en ningún caso esta comunicación conlleve la obligación de retirar el correspondiente enlace.</p>
+        <p>En ningún caso, la existencia de Sitios Enlazados debe presuponer la existencia de acuerdos con los responsables o titulares de los mismos, ni la recomendación, promoción o identificación de %nombre% con las manifestaciones, contenidos o servicios
+            proveídas.
+        </p>
+        <p>%nombre% no conoce los contenidos y servicios de los Sitios Enlazados y por tanto no se hace responsable por los daños producidos por la ilicitud, calidad, desactualización, indisponibilidad, error e inutilidad de los contenidos y/o servicios
+            de los Sitios Enlazados ni por cualquier otro daño que no sea directamente imputable a %nombre%.</p>
+        <h3>5. Protección de datos personales</h3>
+        <h5>5.1. Tratamiento de datos personales</h5>
+        <p>​En cumplimiento con lo dispuesto en el vigente Reglamento General de Protección de Datos le informamos de que el Responsable del tratamiento es:
+
+        </p>
+        <p>%nombre%, con domicilio en %direccion% y con CIF %cif%. Teléfono: %tel%. Email: %email%. %nombre% tratará los datos de los Usuarios con las siguientes finalidades:</p>
+        <p>1. Contactar con el remitente de la información, dar respuesta a su solicitud, petición o consulta y gestionar la publicación de consultas y comentarios y hacer un seguimiento posterior.</p>
+        <p>2. Gestionar y controlar la cartera de clientes.</p>
+        <p>3. Gestionar, en su caso, el proceso de registro del Usuario en la Plataforma Online.
+
+        </p>
+        <h5>Duración del tratamiento de datos
+
+        </h5>
+        <p>Los datos para la gestión de la relación con el cliente y la facturación y cobro de los servicios serán conservados durante todo el tiempo en que el contrato esté vigente. Una vez finalizada dicha relación, en su caso, los datos podrán ser conservados
+            durante el tiempo exigido por la legislación aplicable y hasta que prescriban las eventuales responsabilidades derivadas del contrato.</p>
+        <p>Los datos para la gestión de consultas y solicitudes se conservarán durante el tiempo necesario para dar respuesta a los mismos, con un plazo máximo de un año.</p>
+        <p>Los datos para el envío de comunicaciones comerciales y elaboración de perfiles comerciales de nuestros productos o servicios serán conservados indefinidamente hasta que, en su caso, nos manifiestes tu voluntad de suprimirlos.</p>
+        <h5>Legitimación para el tratamiento de datos
+
+        </h5>
+        <p>La base legal para el tratamiento de tus datos de las finalidades anteriormente descritas es la ejecución de la prestación del servicio correspondiente.</p>
+        <p>No obstante, te recordamos que tienes derecho a oponerte a este tratamiento de tus datos, pudiendo hacerlo por cualquiera de los medios descritos en esta Política.
+
+        </p>
+        <p>La base del envío de comunicaciones comerciales a usuarios no clientes es el consentimiento que se ha solicitado, pudiendo ser revocado en cualquier momento. La retirada de dicho consentimiento no afectará en ningún caso a la ejecución del contrato,
+            pero los tratamientos de datos con ese fin efectuados con anterioridad no perderán su licitud por el hecho de que el consentimiento se haya revocado</p>
+        <h5>Comunicación de tus datos
+
+        </h5>
+        <p>
+            Los datos serán comunicados a las siguientes entidades: A las entidades financieras a través de las que se articule la gestión de cobros y pagos.</p>
+
+        <h5>Tus derechos
+
+        </h5>
+
+
+        <p>Toda persona que nos facilite sus datos tiene los siguientes derechos: Cualquier persona tiene derecho a obtener confirmación sobre si estamos tratando datos personales que le conciernan. Las personas interesadas tienen derecho a acceder a sus
+            datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que fueron recogidos.</p>
+        <p>En las condiciones previstas en el Reglamento General de Protección de Datos, los interesados podrán solicitar la limitación del tratamiento de sus datos o su portabilidad, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa
+            de reclamaciones.</p>
+        <p>En determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos. Si has otorgado el consentimiento para alguna finalidad específica, tienes derecho a retirarlo
+            en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada. En estos supuestos dejaremos de tratar los datos o, en su caso, dejaremos de hacerlo para esa finalidad en concreto, salvo
+            por motivos legítimos imperiosos o el ejercicio o la defensa de posibles reclamaciones.</p>
+        <p>Todos los derechos mencionados pueden ejercerse a través de comunicación postal dirigida a la dirección que figuran en el apartado “Responsable del tratamiento” de esta Política de Privacidad, indicando sus datos identificativos (nombre apellidos
+            DNI o CIF) y acreditando su identidad mediante la documentación correspondiente.
+        </p>
+        <p>Frente a cualquier vulneración de tus derechos, especialmente cuando no hayas obtenido satisfacción en su ejercicio, puedes presentar una reclamación ante la Agencia Española de Protección de Datos (datos de contacto accesibles en www.agpd.es)
+            u otra autoridad de control competente. También puedes obtener más información sobre los derechos que te asisten dirigiéndote a dichos organismos.
+
+        </p>
+
+        <h5>Datos de terceros
+
+        </h5>
+        <p>​ Si facilitas datos de terceros, asumes la responsabilidad de informarles previamente de todo lo previsto en el artículo 14 del Reglamento General de Protección de Datos en las condiciones establecidas en dicho precepto
+        </p>
+
+
+        <h5>5.2. Comunicaciones comerciales
+
+        </h5>
+        <p>En alguno de los formularios electrónicos se le solicitará su consentimiento expreso para poderle remitir comunicaciones comerciales por cualquier medio, incluido el correo electrónico o medios de comunicación electrónica equivalentes, de conformidad
+            con lo dispuesto en el artículo 21 LSSI.</p>
+
+        <h5>5.3. Medidas de seguridad
+
+        </h5>
+        <p>%nombre% garantiza los niveles de seguridad requeridos por el Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la LOPD, adecuados a la naturaleza de los datos que son objeto de tratamiento en
+            cada momento. No obstante, lo anterior, la seguridad técnica en un medio como Internet no es inexpugnable y pueden existir actuaciones dolosas de terceros, si bien %nombre% pone todos los medios a su alcance para evitar dichas actuaciones.</p>
+
+        <h5>5.4. Política de uso de cookies
+
+        </h5>
+        <p>En cumplimiento de lo dispuesto en el artículo 22.2 LSSI, %nombre% únicamente utilizará dispositivos de almacenamiento y recuperación de datos ('Cookies') cuando el usuario haya dado su consentimiento previo para ello de acuerdo con lo que
+            se indica en la ventana emergente del navegador del usuario cuando accede por primera vez a el Portal y en los demás términos y condiciones que se indican en la Política de Cookies de %nombre% que todo usuario debe conocer.
+
+        </p>
+        <h3>6. Comulación de actividades de carácter ilícito e inadecuado.
+
+        </h3>
+        <p>En el caso de que el Usuario o cualquier otro usuario de Internet tuviera conocimiento de que los Sitios Enlazados remiten a páginas cuyos contenidos o servicios son ilícitos, nocivos, denigrantes, violentos o contrarios a la moral podrá ponerse
+            en contacto con %nombre% indicando los siguientes extremos:</p>
+        <p>a) Datos personales del comunicante: nombre, dirección, número de teléfono y dirección de correo electrónico;
+
+        </p>
+        <p>b) Descripción de los hechos que revelan el carácter ilícito o inadecuado del Sitio Enlazado;
+
+        </p>
+        <p>c) En el supuesto de violación de derechos, tales como propiedad intelectual e industrial, los datos personales del titular del derecho infringido cuando sea persona distinta del comunicante. Asimismo, deberá aportar el título que acredite la
+            legitimación del titular de los derechos y, en su caso, el de representación para actuar por cuenta del titular cuando sea persona distinta del comunicante;</p>
+        <p>d) Declaración expresa de que la información contenida en la reclamación es exacta.
+
+        </p>
+        <p>La recepción por parte de %nombre% de la comunicación prevista en esta cláusula no supondrá, según lo dispuesto en la LSSI, el conocimiento efectivo de las actividades y/o contenidos indicados por el comunicante.
+        </p>
+        <p>
+            Asimismo, deberá aportar el título que acredite la legitimación del titular de los derechos y, en su caso, el de representación para actuar por cuenta del titular cuando sea persona distinta del comunicante.
+
+        </p>
+        <h3>7. Ley aplicable
+
+        </h3>
+
+        <p>La ley aplicable en caso de disputa o conflicto de interpretación de los términos que conforman este aviso legal, así como cualquier cuestión relacionada con los servicios del presente portal, será la ley española. Las partes renuncian expresamente
+            al fuero que les pudiera corresponder y someten expresamente a los Juzgados y Tribunales de Sevilla para resolver cualquier controversia que pueda surgir en la interpretación o ejecución de las presentes condiciones contractuales.
+
+        </p>
+        <a href=".." class="">Volver a la página principal</a>
