@@ -1,0 +1,39 @@
+<h3>8. Tienda Online</h3>
+Recopilamos información tuya durante el proceso de pago en nuestra tienda.
+<h3>8.1 Lo que recopilamos y almacenamos</h3>
+Mientras visitas nuestro sitio realizaremos el seguimiento de:
+<ul>
+ 	<li>Los productos que has visto: usaremos esto para, por ejemplo, mostrarte productos que has visto recientemente</li>
+ 	<li>Ubicación, dirección IP y tipo de navegador: usaremos esto para propósitos como estimar impuestos y costes de envío</li>
+ 	<li>Dirección de envío: te pediremos que facilites esto para que podamos, por ejemplo, estimar el coste del envío antes de que hagas un pedido, ¡y enviarte el pedido!</li>
+</ul>
+También usamos cookies para realizar el seguimiento de los contenidos del carrito mientras navegas por nuestro sitio.
+<br><br>
+Cuando nos compras algo te pedimos que facilites información que incluye tu nombre, dirección de facturación, dirección de envío, dirección de correo electrónico, número de teléfono, detalles de la tarjeta de crédito/pago e información adicional opcional como el nombre de usuario y la contraseña. Usaremos esta información para propósitos como:
+<ul>
+ 	<li>Enviarte información sobre tu cuenta y pedido</li>
+ 	<li>Responder a tus solicitudes, incluidos reembolsos y reclamaciones</li>
+ 	<li>Procesar pagos y evitar el fraude</li>
+ 	<li>Configurar tu cuenta para nuestra tienda</li>
+ 	<li>Cumplir con cualquier obligación legal que tengamos, como cálculos de impuestos</li>
+ 	<li>Mejorar las ofertas de nuestra tienda</li>
+ 	<li>Enviarte mensajes promocionales, si eliges recibirlos</li>
+</ul>
+Si creas una cuenta almacenaremos tu nombre, dirección, correo electrónico y número de teléfono, lo que usaremos para el proceso de pago y futuros pedidos.
+<br><br>
+Normalmente almacenamos información sobre ti durante el tiempo que necesitemos la información para los propósitos para los que la recopilamos y usamos, y no estemos legalmente obligados a seguir guardándola. Por ejemplo, almacenaremos información de los pedidos durante 20 años para propósitos de impuestos y contabilidad. Esto incluye tu nombre, dirección de correo electrónico y direcciones de facturación y envío.
+<br><br>
+También almacenamos comentarios o valoraciones, si eliges dejarlos.
+<h3>Quién de nuestro equipo tiene acceso</h3>
+Los miembros de nuestro equipo tienen acceso a la información que nos ofreces. Por ejemplo, los administradores y gestores de tienda pueden acceder:
+<ul>
+ 	<li>La información de pedidos, como qué se compró, cuándo se compró y dónde se debería enviar, y</li>
+ 	<li>La información de cliente, como tu nombre, dirección de correo electrónico, y la información de facturación y envío.</li>
+ 	<li>Los miembros de nuestro equipo tienen acceso a esta información para ayudar a completar pedidos, procesar reembolsos y darte soporte.</li>
+</ul>
+<h3>Lo que compartimos con otros</h3>
+Compartimos información con otros, que nos ayudan a ofrecer nuestros pedidos y gestionar servicios para ti.
+<h3>Pagos</h3>
+Aceptamos pagos mediante PayPal. Al procesar pagos algunos de tus datos se pasarán a PayPal, incluida la información requerida para procesar o dar soporte al pago, tales como el total de la compra y la información de facturación.
+<br><br>
+Por favor, revisa la<a href="https://www.paypal.com/es/webapps/mpp/ua/privacy-full"> política de privacidad de PayPal</a> para más detalles.<br><br>

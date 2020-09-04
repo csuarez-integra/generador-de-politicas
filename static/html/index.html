@@ -21,19 +21,19 @@
                 Nombre de la empresa
             </legend>
             <div class="col-sm-1-12">
-                <input type="text" class="form-control" name="nombre" id="inputName" placeholder="" />
+                <input type="text" class="form-control" name="nombre" id="inputName" placeholder="" required />
             </div>
         </fieldset>
         <fieldset class="form-group row">
             <legend class="col-form-legend col-sm-1-12">Teléfono</legend>
             <div class="col-sm-1-12">
-                <input type="number" class="form-control" name="tel" id="inputName" placeholder="" />
+                <input type="number" class="form-control" name="tel" id="inputName" placeholder="" required />
             </div>
         </fieldset>
         <fieldset class="form-group row">
             <legend class="col-form-legend col-sm-1-12">Dirección</legend>
             <div class="col-sm-1-12">
-                <input type="text" class="form-control" name="direccion" id="inputName" placeholder="" />
+                <input type="text" class="form-control" name="direccion" id="inputName" placeholder="" required />
             </div>
         </fieldset>
         <fieldset class="form-group row">
@@ -51,9 +51,22 @@
         <fieldset class="form-group row">
             <legend class="col-form-legend col-sm-1-12">Email</legend>
             <div class="col-sm-1-12">
-                <input type="email" class="form-control" name="email" id="inputName" placeholder="" />
+                <input type="email" class="form-control" name="email" id="inputName" placeholder="" required />
             </div>
         </fieldset>
+        <div class="form-check">
+            <label class="form-check-label">
+					<input
+						type="checkbox"
+						class="form-check-input"
+						name="tienda"
+						id=""
+						value="tienda"
+						checked
+					/>
+					Tienda online
+				</label>
+        </div>
         <div class="form-group row">
             <div class="offset-sm-2 col-sm-10">
                 <button type="submit" class="btn btn-primary">Generar</button>
